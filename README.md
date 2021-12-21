@@ -1,10 +1,6 @@
 ### hello, saludos, bon dia 👋
 
-My name is dany. 
-
-My moniker on the internet for more than a decade now has been k.o.d.3000. 
-
-The k.o.d. acronym stands for knowledge on demand, as I have a love of learning.
+My name is dany. Been here for more than a decade now as k.o.d.3000. 
 
 The majority of my work is private due to client ndas, but i do try to throw some public ones now and again.
 However, my public facing repos are kinda sad since they dont get the same attention as the private ones do.. if you'd like a walk through
