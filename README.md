@@ -1,7 +1,5 @@
 ### hello, saludos, bon dia 👋
 
-Welcome to my github. 
-
 My name is dany. 
 
 My moniker on the internet for more than a decade now has been k.o.d.3000. 
