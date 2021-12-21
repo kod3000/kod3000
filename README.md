@@ -2,7 +2,7 @@
 
 My name is dany. 
 
-My moniker on the internet for more than a decade now has been kod3000. (knowledge on demand)
+My moniker on the internet for more than a decade now has been k.o.d.3000. The acronym stands for knowledge on demand, as I love to learn.
 
 Welcome to my github. 
 
