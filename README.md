@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 
 
-btc : 34zin8qyLHUcaN1E9veNoorPujaRVnr6ZZ
+![btc](https://github.com/kod3000/EventsManager/blob/d54efb0e1301a6cc1d508b8a9c571f3bb8da04b8/public/img/bitcoin.png) : 34zin8qyLHUcaN1E9veNoorPujaRVnr6ZZ
