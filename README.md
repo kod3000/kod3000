@@ -21,17 +21,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<a href="https://wakatime.com"><img width="520" src="https://wakatime.com/share/@kod3000/17377f7a-6b28-4220-8528-af680ff4ceb7.png" /></a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kod3000&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kod3000&hide=css,handlebars,less,html&langs_count=3&hide_title=true&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kod3000&hide_border=true" />
-</a>
-
-
 
 
 ![btc](https://github.com/kod3000/EventsManager/blob/d54efb0e1301a6cc1d508b8a9c571f3bb8da04b8/public/img/bitcoin.png) : 34zin8qyLHUcaN1E9veNoorPujaRVnr6ZZ
