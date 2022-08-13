@@ -1,10 +1,10 @@
 ### hello, saludos, bon dia 👋
 
-My name is dany. Been on github for more than a decade now as k.o.d.3000. 
+My name is dany. Been on github for more than a decade as k.o.d.3000. 
 
-The majority of my work is private due to client ndas, but i do try to throw some public ones now and again.
+My work is private due to client ndas, but i do try to throw some public ones now and again.
 However, my public facing repos are kinda sad since they dont get the same attention as the private ones do.. if you'd like a walk through
-of some of my private work just contact me. I'd be happy to share. 
+of some of my private work just contact me. I'd be happy to share, but please make this request in advanced since its a lot of work spanning different areas of web communications using various languages/technollogies. 
 
 <!--
 **kod3000/kod3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
