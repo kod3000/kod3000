@@ -7,7 +7,7 @@ However, my public facing repos are kinda sad since they dont get the same atten
 of some of my private work just contact me. I'd be happy to share, but please make this request in advanced since its a lot of work spanning different areas of web communications using various languages/technologies. 
 -->
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@kod3000/48e401a8-a158-4973-be8a-266a7ae2d0a9.png" /></a>
+<a href="https://wakatime.com"><img width="450px" src="https://wakatime.com/share/@kod3000/48e401a8-a158-4973-be8a-266a7ae2d0a9.png" /></a>
 
 <!--
 **kod3000/kod3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
