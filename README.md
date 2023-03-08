@@ -6,10 +6,23 @@ My work is private due to client ndas, but i do try to throw some public ones no
 However, my public facing repos are kinda sad since they dont get the same attention as the private ones do.. if you'd like a walk through
 of some of my private work just contact me. I'd be happy to share, but please make this request in advanced since its a lot of work spanning different areas of web communications using various languages/technologies. 
 -->
+<table>
+<tr>
+<th> 
+  .
+      <a href="https://wakatime.com"><img width="450px" src="https://wakatime.com/share/@kod3000/48e401a8-a158-4973-be8a-266a7ae2d0a9.png" /></a>
 
-<a href="https://wakatime.com"><img width="450px" src="https://wakatime.com/share/@kod3000/48e401a8-a158-4973-be8a-266a7ae2d0a9.png" /></a>
+  </th>
+<th>
+  
+  <a href="https://wakatime.com"><img width="250px" src="https://wakatime.com/share/@kod3000/8519389a-7229-441e-84ef-5815f7e986db.png" /></a><a href="https://wakatime.com"><img width="250px" src="https://wakatime.com/share/@kod3000/6b03c726-b8bb-42d7-a8bc-db6fdd20798b.png" /></a>
+  </th>
+</tr>
+</table>
+
+  
 <br/>
-<a href="https://wakatime.com"><img width="250px" src="https://wakatime.com/share/@kod3000/8519389a-7229-441e-84ef-5815f7e986db.png" /></a><a href="https://wakatime.com"><img width="250px" src="https://wakatime.com/share/@kod3000/6b03c726-b8bb-42d7-a8bc-db6fdd20798b.png" /></a>
+
 
 <!--
 **kod3000/kod3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,4 +48,4 @@ Here are some ideas to get you started:
 </a>
 
 
-![btc](https://github.com/kod3000/EventsManager/blob/d54efb0e1301a6cc1d508b8a9c571f3bb8da04b8/public/img/bitcoin.png) : 34zin8qyLHUcaN1E9veNoorPujaRVnr6ZZ
+donate btc : 34zin8qyLHUcaN1E9veNoorPujaRVnr6ZZ
