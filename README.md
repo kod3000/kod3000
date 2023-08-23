@@ -8,7 +8,7 @@ of some of my private work just contact me. I'd be happy to share, but please ma
 -->
 <table>
 <tr>
-<th> 
+<!-- <th> 
   .
       <a href="https://wakatime.com"><img width="450px" src="https://wakatime.com/share/@kod3000/48e401a8-a158-4973-be8a-266a7ae2d0a9.png" /></a>
 
@@ -16,7 +16,7 @@ of some of my private work just contact me. I'd be happy to share, but please ma
 <th>
   
   <a href="https://wakatime.com"><img width="250px" src="https://wakatime.com/share/@kod3000/8519389a-7229-441e-84ef-5815f7e986db.png" /></a><a href="https://wakatime.com"><img width="250px" src="https://wakatime.com/share/@kod3000/6b03c726-b8bb-42d7-a8bc-db6fdd20798b.png" /></a>
-  </th>
+  </th> -->
 </tr>
 </table>
 
