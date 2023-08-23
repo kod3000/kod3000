@@ -1,22 +1,16 @@
 ### hello, saludos, bon dia 👋
 
-My name is dany. Been on github for more than a decade as k.o.d.3000. 
-<!--
-My work is private due to client ndas, but i do try to throw some public ones now and again.
+My name is dany. Been on github for more than a decade as k.o.d.3000 ... 
+
+I love to code and I'm passionate about sharing knowledge with other human beings. 
+
+98% My work is private due to client ndas, but i do try to throw some public ones now and again.
 However, my public facing repos are kinda sad since they dont get the same attention as the private ones do.. if you'd like a walk through
-of some of my private work just contact me. I'd be happy to share, but please make this request in advanced since its a lot of work spanning different areas of web communications using various languages/technologies. 
--->
+of some of my private work just contact me. I'd be happy to share, but please make this request in advanced since its a lot of work spanning different areas of web communications/ computer engineering using various languages/technologies. 
+
 <table>
 <tr>
-<!-- <th> 
-  .
-      <a href="https://wakatime.com"><img width="450px" src="https://wakatime.com/share/@kod3000/48e401a8-a158-4973-be8a-266a7ae2d0a9.png" /></a>
-
-  </th>
-<th>
-  
-  <a href="https://wakatime.com"><img width="250px" src="https://wakatime.com/share/@kod3000/8519389a-7229-441e-84ef-5815f7e986db.png" /></a><a href="https://wakatime.com"><img width="250px" src="https://wakatime.com/share/@kod3000/6b03c726-b8bb-42d7-a8bc-db6fdd20798b.png" /></a>
-  </th> -->
+if you want to get a feel for my coding habits, you can check out my public profile on wakatime : https://wakatime.com/@kod3000
 </tr>
 </table>
 
