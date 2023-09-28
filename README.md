@@ -5,6 +5,8 @@ My name is dany. Been on github for more than a decade as k.o.d.3000 ...
 I love to code and I'm passionate about sharing knowledge with other human beings. 
 
 98% of my work is private due to client ndas, but I do try to throw some public ones now and again.
+
+
 However, my public facing repos are kinda sad since they dont get the same attention as the private ones do.. if you'd like a walk through
 of some of my private work just contact me. I'd be happy to share, but please make this request in advanced since its a lot of work spanning different areas of web communications/ computer engineering using various languages/technologies. 
 
