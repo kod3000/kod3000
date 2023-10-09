@@ -3,7 +3,7 @@
 
 
 <br />
-✨ ✨ ✨ I'm Dany.
+✨ ✨ ✨ **I'm Dany.**
 <hr/>
 <br />
 
@@ -20,10 +20,8 @@
 <br />
 <br />
 <br />
-<br />
 ✨ ✨ ✨ ✨ ✨ ✨
 <hr/>
-<br />
 <br />
 Q : 🥸 So... who am I, and what do I do ? ❔ ? ❔
 <br />
@@ -40,7 +38,7 @@ A: Well, 98% of my work is private due to client NDAs. I do try to throw some pu
 <br />
 <br />
 
-**Example : The MERN/MEAN projects are for anyone wanting to understand (Mongo + Express + React/Angular + Node) for example, all code is written by me and is free to take.**
+**Example : <br/>The MERN/MEAN projects are for anyone wanting to understand (Mongo + Express + React/Angular + Node) for example, all code is written by me and is free to take.**
 
 <br />
 <br />
@@ -51,15 +49,17 @@ A: Umm...😑 well... check me out on the internets
 <br />
 <br />
 
+<br />
+**The INTERNETS && ME :**
 <table>
 <!-- -->
 <tr>
   <td> 🔥 </td>
   <td>https://dany.codes</td>
   <td><br /><br />
-    My primary site for blogging and keeping up to date on my coding shenanigans Also used by clients to contract me on a per hour basis.
+    My primary site for blogging and keeping up to date on my coding shenanigans. Also, the site is used by clients to contract me on a per hour basis.
      <br /><hr/>
-  Tech Stack :
+  Tech Stack Leverge :
     <ul>
       <li>Nextjs v13.5</li>
       <li>Tailwind CSS & WEBGL</li>
@@ -69,7 +69,7 @@ A: Umm...😑 well... check me out on the internets
     Circa: 2020~Present
     <hr/>
 
-  ***Developer Note : This site has a fully functional CRM system for clients, the system is completely seperate from the main site and is built on using other tech stack such as Flutter and FastAPI***
+  ***Developer Note : This site has a fully functional CRM system for clients, the system is completely seperate from the main site and is built on using other tech stacks such as Flutter and FastAPI***
     <br /><br />
   </td>
 </tr>
@@ -78,9 +78,9 @@ A: Umm...😑 well... check me out on the internets
   <td> 👴 </td>
   <td>https://kod3000.com</td>
   <td>
-    My antique VJ site, now just a shadow of what once was.. 🦄 .. Ultimately, 'i.am.dany.pro' replaced this site as the 🍎 of my 👁️
+    My antique VJ site, now just a shadow of what once was.. 🦄 .. Ultimately, 'i.am.dany.pro' replaced this site as the 🍎 of my 👁️. I keep the domain up cause its part of me.
      <br /><hr/>
-  Tech Stack :
+  Tech Stack Leverge :
     <ul>
       <li>HTML5 & CSS3 & WEBGL & Vanilla JavaScript</li>
     </ul>
@@ -116,9 +116,12 @@ A: Umm...😑 well... check me out on the internets
   <td> 🎵 </td>
   <td>https://i.am.dany.pro</td>
   <td>  
-  This platform represents the convergence of my expertise in Visuals and Tech, built entirely with MeteorJs—a framework that has long surpassed others like Nextjs in server/client capabilities. The site offers a real-time experience of live-streamed visuals synchronized with music, evoking a dynamic radio station environment. Crucially, the visuals are adaptive, not pre-rendered, ensuring they resonate with the accompanying music. The sophisticated yet streamlined system operates through a visualizer coded in C++ and Java, leveraging the RTSP protocol and ffmpeg for seamless music-visual integration. Hosted on a specialized server, it employs tailored scripts to ensure optimal performance. As each track plays, the album art is displayed on the front end in tandem with the video player, demanding synchronized backend services. This innovation, a precursor to any live services in its time and now over four years old, remains unparalleled in the market and has proven instrumental for festival performances requiring low-latency visual displays. The CSS3 animations that the site uses are of my own design. I created a engine that would zoom in/out to any object displayed on the screen.
+     <br />
+  This platform represents the convergence of my expertise in Visuals and Tech, built entirely with MeteorJs—a framework that has long surpassed others like Nextjs in server/client capabilities. The site offers a real-time experience of live-streamed visuals synchronized with music, evoking a dynamic radio station environment. 
+    
+     <br /> <br />Crucially, the visuals are adaptive, not pre-rendered, ensuring they resonate with the accompanying music. The sophisticated yet streamlined system operates through a visualizer coded in C++ and Java, leveraging the RTSP protocol and ffmpeg for seamless music-visual integration. Hosted on a specialized server, it employs tailored scripts to ensure optimal performance.  <br /> <br />As each track plays, the album art is displayed on the front end in tandem with the video player, demanding synchronized backend services. This innovation, a precursor to any live services in its time and now over four years old, remains unparalleled in the market and has proven instrumental for festival performances requiring low-latency visual displays. The CSS3 animations that the site uses are of my own design. I created a engine that would zoom in/out to any object displayed on the screen.
      <br /><hr/>
-  Tech Stack :
+  Tech Stack Leverge :
     <ul>
       <li>MeteorJs & MongoDB</li>
       <li>FastApi</li>
@@ -150,12 +153,11 @@ A: Umm...😑 well... check me out on the internets
         <br /><hr/>
     Circa: 2020~Present 
     <br />
+        <br />
+
 </td>
 </tr>
 </table>
-
-  
-<br/>
 <br />
 <br />
 ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
