@@ -3,7 +3,8 @@
 
 
 <br />
-✨ ✨ ✨ **I'm Dany.**
+
+✨ ✨ ✨ **I am dany**
 <hr/>
 <br />
 
@@ -36,13 +37,12 @@ Q : So inside a decade of being a Computer Engineer, what have I been up to you 
 
 A: Well, 98% of my work is private due to client NDAs. I do try to throw some public ones now and again, but they are kinda sad cause I dont give them the same attention I normally give my client work. *If you'd like a walk through of some of my private work just contact me*. I'd be happy to share, but *please make this request in advanced* since its a lot of work spanning different areas of web communications/ computer engineering using various languages/technologies.
 <br />
-<br />
 
 **Example : <br/>The MERN/MEAN projects are for anyone wanting to understand (Mongo + Express + React/Angular + Node) for example, all code is written by me and is free to take.**
 
 <br />
 <br />
-Q : So how can you see more without asking?? 
+Q : How can you see more without asking?? 
 <br />
 <br />
 A: Umm...😑 well... check me out on the internets 
@@ -50,6 +50,7 @@ A: Umm...😑 well... check me out on the internets
 <br />
 
 <br />
+
 **The INTERNETS && ME :**
 <table>
 <!-- -->
@@ -117,9 +118,7 @@ A: Umm...😑 well... check me out on the internets
   <td>https://i.am.dany.pro</td>
   <td>  
      <br />
-  This platform represents the convergence of my expertise in Visuals and Tech, built entirely with MeteorJs—a framework that has long surpassed others like Nextjs in server/client capabilities. The site offers a real-time experience of live-streamed visuals synchronized with music, evoking a dynamic radio station environment. 
-    
-     <br /> <br />Crucially, the visuals are adaptive, not pre-rendered, ensuring they resonate with the accompanying music. The sophisticated yet streamlined system operates through a visualizer coded in C++ and Java, leveraging the RTSP protocol and ffmpeg for seamless music-visual integration. Hosted on a specialized server, it employs tailored scripts to ensure optimal performance.  <br /> <br />As each track plays, the album art is displayed on the front end in tandem with the video player, demanding synchronized backend services. This innovation, a precursor to any live services in its time and now over four years old, remains unparalleled in the market and has proven instrumental for festival performances requiring low-latency visual displays. The CSS3 animations that the site uses are of my own design. I created a engine that would zoom in/out to any object displayed on the screen.
+  This platform represents the convergence of my expertise in Visuals and Tech, built entirely with MeteorJs—a framework that has long surpassed others like Nextjs in server/client capabilities. The site offers a real-time experience of live-streamed visuals synchronized with music, evoking a dynamic radio station environment. Crucially, the visuals are adaptive, not pre-rendered, ensuring they resonate with the accompanying music. The sophisticated yet streamlined system operates through a visualizer coded in C++ and Java, leveraging the RTSP protocol and ffmpeg for seamless music-visual integration. Hosted on a specialized server, it employs tailored scripts to ensure optimal performance. As each track plays, the album art is displayed on the front end in tandem with the video player, demanding synchronized backend services. This innovation, a precursor to any live services in its time and now over four years old, remains unparalleled in the market and has proven instrumental for festival performances requiring low-latency visual displays. The CSS3 animations that the site uses are of my own design. I created a engine that would zoom in/out to any object displayed on the screen.
      <br /><hr/>
   Tech Stack Leverge :
     <ul>
@@ -131,6 +130,7 @@ A: Umm...😑 well... check me out on the internets
     </ul>
     <hr/>
     Circa: 2018
+    <br />
   </td>
 </tr>
 <!-- -->
@@ -163,11 +163,9 @@ A: Umm...😑 well... check me out on the internets
 ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
 <hr/>
 <br />
-<br />
 
 BTC 🔮 : 34zin8qyLHUcaN1E9veNoorPujaRVnr6ZZ
 
-<br />
 <br />
 
 
