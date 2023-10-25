@@ -18,10 +18,13 @@
 - 💬 Ask me about : "What is a Fuild App, and why haven't we seen one as of yet?"
 - ⚡ Fun fact: To understand the Human eye better and to build fuild apps, I spent a good part of 12yrs being a Visual Jockey. I taught myself Java and C++, adapted into frameworks like Cinder and OpenFrameworks to build live apps to do visuals for festivals and parties. It was a fun time for me doing both what I love and having other enjoy my work in a live enviornment.
 
+<!--
+
 <br />
 <br />
 <br />
 ✨ ✨ ✨ ✨ ✨ ✨
+
 <hr/>
 <br />
 Q : 🥸 So... who am I, and what do I do ? ❔ ? ❔
@@ -53,8 +56,8 @@ A: Umm...😑 well... check me out on the internets
 
 **The INTERNETS && ME :**
 <table>
-<!-- -->
-<tr>
+
+  <tr>
   <td> 🔥 </td>
   <td>https://dany.codes</td>
   <td><br /><br />
@@ -74,7 +77,7 @@ A: Umm...😑 well... check me out on the internets
     <br /><br />
   </td>
 </tr>
-<!-- -->
+
 <tr>
   <td> 👴 </td>
   <td>https://kod3000.com</td>
@@ -90,7 +93,7 @@ A: Umm...😑 well... check me out on the internets
 <br />
     </td>
 </tr>
-<!-- -->
+
 <tr>
   <td> 😴 </td>
   <td>https://www.linkedin.com/in/kod3000</td>
@@ -101,7 +104,7 @@ A: Umm...😑 well... check me out on the internets
   <br />
   </td>  
 </tr>
-<!-- -->
+
 <tr>
   <td> 😪 </td>
   <td>https://vimeo.com/kod3000</td>
@@ -112,7 +115,7 @@ A: Umm...😑 well... check me out on the internets
     <br />
   </td>
 </tr>
-<!-- -->
+
 <tr>
   <td> 🎵 </td>
   <td>https://i.am.dany.pro</td>
@@ -133,7 +136,6 @@ A: Umm...😑 well... check me out on the internets
     <br />
   </td>
 </tr>
-<!-- -->
   <tr>
   <td> 👀 </td>
   <td>https://instagram.com/i.am.v.s.on</td>
@@ -144,7 +146,7 @@ A: Umm...😑 well... check me out on the internets
     <br />
     </td>
 </tr>
-<!-- -->
+
 <tr>
   <td> ⌨️ </td>
   <td>https://wakatime.com/@kod3000</td>
@@ -160,10 +162,11 @@ A: Umm...😑 well... check me out on the internets
 </table>
 <br />
 <br />
+-->
+
 ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
 <hr/>
 <br />
-
 BTC 🔮 : 34zin8qyLHUcaN1E9veNoorPujaRVnr6ZZ
 
 <br />
