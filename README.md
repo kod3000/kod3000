@@ -165,6 +165,8 @@ A: Umm...😑 well... check me out on the internets
 -->
 
 ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
+<br />
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@kod3000/fcece004-cd25-4aa1-8759-53d474c54d08.png" /></a>
 <hr/>
 <br />
 BTC 🔮 : 34zin8qyLHUcaN1E9veNoorPujaRVnr6ZZ
@@ -183,11 +185,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kod3000&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kod3000&hide=css,handlebars,less,html&langs_count=6&hide_title=true&hide_border=true" />
-</a>
--->
+
