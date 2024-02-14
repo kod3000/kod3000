@@ -11,6 +11,8 @@
 ### I've been on github for over a decade as *k.o.d.3000* ... ⏲️ 😶‍🌫️ 🤔
 <br />
 --->
+
+
 - 🌱 I’m currently living in 🗽 nyc
 - 😄 Passionate About : Open CV, Semantic Programming Languages, DataScience, Communication Protocals, Language Models, Shaders, OpenGl/WebGL, Cuda/OpenCl, WebAssembly.
 - 💬 Ask me about : "Why ChatGPT or any other AI tech will always need a human operator due to our limited computing power of silicone based chips."
@@ -165,7 +167,8 @@ A: Umm...😑 well... check me out on the internets
 
 ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
 <br />
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@kod3000/fcece004-cd25-4aa1-8759-53d474c54d08.png" /></a>
+
+<a href="https://wakatime.com/@kod3000"><img src="https://wakatime.com/share/@kod3000/dd7e1e52-b34e-4845-8da2-f8a945b32e83.png" /></a>
 <hr/>
 <br />
 BTC 🔮 : 34zin8qyLHUcaN1E9veNoorPujaRVnr6ZZ
