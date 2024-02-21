@@ -168,7 +168,10 @@ A: Umm...😑 well... check me out on the internets
 ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
 <br />
 
+<!--
+
 <a href="https://wakatime.com/@kod3000"><img src="https://wakatime.com/share/@kod3000/dd7e1e52-b34e-4845-8da2-f8a945b32e83.png" /></a>
+-->
 <hr/>
 <br />
 BTC 🔮 : 34zin8qyLHUcaN1E9veNoorPujaRVnr6ZZ
