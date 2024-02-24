@@ -12,12 +12,17 @@
 <br />
 --->
 
+<!--
 
 - 🌱 I’m currently living in 🗽 nyc
 - 😄 Passionate About : Open CV, Semantic Programming Languages, DataScience, Communication Protocals, Language Models, Shaders, OpenGl/WebGL, Cuda/OpenCl, WebAssembly.
 - 💬 Ask me about : "Why ChatGPT or any other AI tech will always need a human operator due to our limited computing power of silicone based chips."
 - 💬 Ask me about : "What is a Fuild App, and why haven't we seen one as of yet?"
 - ⚡ Fun fact: To understand the Human eye better and to build fuild apps, I spent a good part of 12yrs being a Visual Jockey. I taught myself Java and C++, adapted into frameworks like Cinder and OpenFrameworks to build live apps to do visuals for festivals and parties. It was a fun time for me doing both what I love and having other enjoy my work in a live enviornment.
+
+-->
+
+![live coding activity](https://dany.codes/static/recent/activity/view.gif "view more of my coding activity at my site")
 
 <!--
 
